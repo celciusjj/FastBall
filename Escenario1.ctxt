@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Escenario1
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Escenario\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Escenario1()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Escenario.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ ciclosParaGenerarBloques()
+comment2.text=\r\n\ Este\ m\u00E9todo\ permite\ mover\ asteroides\ hacia\ \ arriba\ o\ hacia\ abajo.\r\n\ <b>\ Pre-Condici\u00F3n\:\ <b/>\ Ninguna\ <br>\r\n\ <b>\ Pos-Condici\u00F3n\:\ <b/>\ Cambia\ la\ posici\u00F3n\ en\ Y\ del\ asteroide.\ <br>\r\n\ \r\n\ @author\ Juan\ Jos\u00E9\ Carmona\ Y\ Daniel\ Berr\u00EDo.\r\n
+comment3.params=
+comment3.target=void\ ciclosParaGenerarBolas()
+comment3.text=\r\n\ Este\ m\u00E9todo\ permite\ mover\ y\ generar\ las\ bolas\ de\ fuego\ en\ el\ escenario\ de\ juego.\r\n\ <b>\ Pre-Condici\u00F3n\:\ <b/>\ Ninguna\ <br>\r\n\ <b>\ Pos-Condici\u00F3n\:\ <b/>\ Cambia\ la\ posici\u00F3n\ en\ Y\ y\ X\ de\ la\ bola\ de\ fuego.\ <br>\r\n\ \r\n\ @author\ Juan\ Jos\u00E9\ Carmona\ Y\ Daniel\ Berr\u00EDo.\r\n
+comment4.params=
+comment4.target=void\ musicaDeFondo()
+comment4.text=\r\n\ Este\ m\u00E9todo\ reproduce\ una\ melod\u00EDa\ de\ fondo.\r\n\ <b>\ Pre-condici\u00F3n\:\ <b/>\ Ninguna\ <br>\r\n\ <b>\ Pos-condici\u00F3n\:\ <b/>\ Reproduce\ la\ m\u00FAsica\ ambiente\ del\ juego.\ <b\r\n\ \r\n\ @author\ Juan\ Jos\u00E9\ Carmona\ Y\ Daniel\ Berr\u00EDo\ Barrera.\r\n\ \r\n\ \r\n
+comment5.params=
+comment5.target=void\ act()
+comment6.params=
+comment6.target=void\ cambiarMundo()
+comment6.text=\r\n\ Este\ m\u00E9todo\ permite\ cambiar\ de\ escenario,\ iniciando\ los\ nuevos\ componentes\ del\ juego.\r\n\ <b>\ Pre-condici\u00F3n\:\ <b/>\ Ninguna\ <br>\r\n\ <b>\ Pos-condici\u00F3n\:\ <b/>\ Inicia\ un\ nuevo\ escenario.<br>\r\n\ \r\n\ @author\ Juan\ Jos\u00E9\ Carmona\ Y\ Daniel\ Berr\u00EDo\ Barrera.\r\n
+numComments=7

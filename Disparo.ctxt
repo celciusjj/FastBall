@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Disparo
+comment0.text=\r\n\ \r\n\ \r\n\ @author\ Juan\ Jos\u00E9\ Carmona\ y\ Daniel\ Berr\u00EDo\ Barrera\ \r\n\ @version\ 2\r\n
+comment1.params=lugar
+comment1.target=Disparo(java.lang.String)
+comment1.text=\r\n\ Este\ metodo\ permite\ generar\ los\ disparos\ que\ produce\ el\ enemigo.\r\n\ <b>\ Pre-Condici\u00F3n\:\ <b\\>\ Ninguna\ <br>\ \r\n\ <b>\ Pos-Condici\u00F3n\:\ <b\\>\ Elimina\ el\ disparo\ cuando\ este\ ha\ llegado\ a\ la\ parte\ \r\n\ inferior\ de\ la\ pantalla\ <br>\r\n\ \r\n\ @author\ Juan\ Jos\u00E9\ Carmona\ Y\ Daniel\ Berr\u00EDo\ Barrera\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Disparo\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=3

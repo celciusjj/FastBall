@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Atras
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Volver\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ volverInicio()
+comment1.text=\r\n\ \r\n\ \r\n\ <b>\ Pre-condici\u00F3n\:\ <b/>\ Ninguna\ <br>\r\n\ <b>\ Pos-Condici\u00F3n\:\ <b/>\ Cambia\ de\ escenario\ y\ detiene\ la\ m\u00FAsica\ inicial\ de\ la\ \r\n\ pantalla\ de\ inicio.\ <br>\r\n\ \r\n\ @author\ Juan\ Jos\u00E9\ Carmona\ Y\ Daniel\ Berr\u00EDo.\r\n
+comment2.params=
+comment2.target=void\ cargarInicio()
+comment2.text=\r\n\ Este\ m\u00E9todo\ permite\ cambiar\ cambiar\ de\ escenario,\ volviendo\ al\ mundo\ de\ inicio.\r\n\ <b>\ Pre-condici\u00F3n\:\ <b/>\ Ninguna\ <br>\r\n\ <b>\ Pos-condici\u00F3n\:\ <b/>\ Inicia\ un\ nuevo\ escenario.\ <br>\r\n\ \r\n\ @author\ Juan\ Jos\u00E9\ Carmona\ Y\ Daniel\ Berr\u00EDo\ Barrera.\r\n
+comment3.params=
+comment3.target=boolean\ seDioClick()
+comment3.text=\r\n\ Este\ m\u00E9todo\ verifica\ si\ se\ dio\ clic\ sobre\ la\ clase\ atras.\r\n\ <b>\ Pre-condici\u00F3n\:\ <b/>\ Ninguna\ <br>\r\n\ <b>\ Pos-Condici\u00F3n\:\ <b/>\ Ninguna\ <br>\r\n\ \r\n\ @return\ true\ si\ se\ dio\ clic,\ false\ en\ caso\ contrario.\r\n\ @author\ Juan\ Jos\u00E9\ Carmona\ Y\ Daniel\ Berr\u00EDo.\r\n
+comment4.params=
+comment4.target=void\ act()
+numComments=5

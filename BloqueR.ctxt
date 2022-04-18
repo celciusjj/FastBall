@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=BloqueR
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ bordes()
+comment2.text=\r\n\ Este\ m\u00E9todo\ se\ encarga\ de\ verificar\ si\ el\ bloque\ ha\ llegado\ hasta\ un\ borde\r\n\ ya\ determinado,\ de\ ser\ as\u00ED\ su\ velocidad\ cambiar\u00E1.\r\n\ <b>\ Pre-Condici\u00F3n\:\ <b/>\ Ninguna\ <br>\ \r\n\ <b>\ Pos-Condici\u00F3n\:\ <b/>\ Cambia\ la\ velocidad\ del\ bloque,\ cuando\ este\ haya\ llegado\ hasta\ \r\n\ una\ posici\u00F3n.\r\n\ \r\n\ @authir\ Juan\ Jos\u00E9\ Carmona\ Y\ Daniel\ Berr\u00EDo\ Barrera.\r\n
+numComments=3

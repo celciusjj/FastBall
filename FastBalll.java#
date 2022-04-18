@@ -1,0 +1,109 @@
+import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
+
+/**
+ * Write a description of class Fastball2 here.
+ * 
+ * @author (your name) 
+ * @version (a version number or a date)
+ */
+public class FastBalll extends World
+{
+    //Atributos
+    private Esfera bola;
+    private Vida vida;
+    private Bloque bloque;
+
+    //ultimo bloque
+    private Suelo1 suelo1;
+
+    //bloque suelo
+    private Suelo suelo2;
+    private Suelo suelo;
+    private Suelo suelo3;
+    private Suelo suelo4;
+
+
+    private int ciclosParaGenerarBloques = 10;
+
+    /**
+     * Aqui se inicializan todos los componentes.
+     * 
+     */
+    public FastBall()
+    {    
+        // Crea el espacio del mundo
+        super(1140, 600, 1, false); 
+
+        //Agrega la esfera al mundo.
+        this.bola = new Esfera();
+        this.suelo = new Suelo();
+        this.addObject(this.bola, 30, 505);
+
+        //Agrega las vidas al mundo
+
+        vida = new Vida();
+        addObject(vida, 60, 60);
+        
+        //Agrega la plataforma de inicio donde esta montada la esfera
+        // al comienzo del juego.
+
+        this.suelo = new Suelo();
+        suelo1 = new Suelo1();
+        suelo2 = new Suelo();
+
+        this.addObject(this.suelo, 30, 570);    
+        this.addObject(suelo2, 90, 570);
+        this.addObject(suelo2, 114, 570);
+        this.addObject(suelo1, 150, 570);
+        
+        // Agrega los bloques al mundo.
+        //1
+        this.bloque = new Bloque("up");
+        addObject(bloque, 250, 500);
+        //2
+        this.bloque = new Bloque("up");
+        addObject(bloque, 500, 445);
+        //3
+        this.bloque = new Bloque("up");
+        addObject(bloque, 720, 380);
+        //4
+        this.bloque = new Bloque("up");
+        addObject(bloque, 890, 400);
+        //5
+        this.bloque = new Bloque("up");
+        addObject(bloque, 1000, 560);
+        
+      
+    
+
+    }
+
+    //private void ciclosMoverBloques (){
+        //if (ciclosParaGenerarBloques <=0){
+           // Bloque bloque = new Bloque("down");
+            //this.addObject(bloque, this.getWidth()+bloque.getImage().getWidth()/30, 500);
+
+            //ciclosParaGenerarBloques = Greenfoot.getRandomNumber(30)+45;
+        //}
+        //ciclosParaGenerarBloques--;   
+
+    //}
+
+   // private void ciclosMoverBloques2 (){
+
+        //if (ciclosParaGenerarBloques <=0){
+            //Bloque bloque = new Bloque ("up");
+            //this.addObject(bloque, this.getWidth()+bloque.getImage().getWidth()/30,550);
+
+            //ciclosParaGenerarBloques = Greenfoot.getRandomNumber(40)+5;
+
+        //}
+        //ciclosParaGenerarBloques--;
+    //}
+
+    //public void act(){
+       // ciclosMoverBloques ();
+        //ciclosMoverBloques2 ();
+   // }
+
+}

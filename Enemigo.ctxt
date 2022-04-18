@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Enemigo
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Enemigo\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ eliminarEnemigo()
+comment1.text=\r\n\ Este\ m\u00E9todo\ permite\ eliminar\ el\ enemigo\ cuando\ llegue\ a\ la\ parte\ \r\n\ superior\ derecha\ de\ la\ pantalla.\r\n\ <b>\ Pre-Condicion\:\ <b\\>\ Ninguna\ <br>\ \r\n\ <b>\ Pos-Condici\u00F3n\:\ <b\\>\ Se\ elimina\ el\ enemigo\ cuando\ llega\ a\ la\ parte\ \r\n\ superior\ derecha\ de\ la\ pantalla\ <br>\r\n\ \r\n\ @author\ Juan\ Jos\u00E9\ Carmona\ y\ Daniel\ Berr\u00EDo\ Barrera\r\n
+comment2.params=
+comment2.target=void\ disparar()
+comment2.text=\r\n\ Este\ m\u00E9todo\ se\ encarga\ de\ hacer\ que\ la\ animaci\u00F3n\ de\ disparo\ del\ enemigo,\ \r\n\ adem\u00E1s\ permite\ eliminar\ el\ ave\ cuando\ ha\ llegado\ al\ limite\ superior\ izquierdo\r\n\ de\ la\ pantalla.\r\n\ <b>\ Pre-Condici\u00F3n\:\ <b\\>\ Ninguna\ <br>\r\n\ <b>\ Pos-Condicion\:\ <b\\>\ Se\ genera\ la\ animaci\u00F3n\ del\ disparo\ del\ enemigo,\ y\ adem\u00E1s\ \r\n\ elimina\ el\ enemigo\ cuando\ este\ ha\ llegado\ al\ limite\ izquierdo\ de\ la\ pantalla.<br>\r\n\ \r\n\ @author\ Juan\ Jos\u00E9\ Carmona\ Y\ Daniel\ Berr\u00EDo\ Barrera\r\n
+comment3.params=
+comment3.target=void\ hacerVolar()
+comment3.text=\r\n\ Este\ m\u00E9todo\ cambia\ la\ posici\u00F3n\ del\ enemigo\ y\ genera\ la\ animaci\u00F3n\ de\ vuelo\r\n\ de\ este.\r\n\ <b>\ Pre-Condici\u00F3n\:\ <b\\>\ Ninguna\ <br>\r\n\ <b>\ Pos-Condici\u00F3n\:\ <b\\>\ Se\ Cambia\ de\ posici\u00F3n\ el\ enemigo,\r\n\ y\ adem\u00E1s\ se\ cambia\ la\ imagen\ de\ acuerdo\ a\ la\ animaci\u00F3n\ generada.\r\n\ \r\n\ @author\ Juan\ Jos\u00E9\ Carmona\ Y\ Daniel\ Berr\u00EDo\ Barrera\r\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ Act\ -\ do\ whatever\ the\ Enemigo\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=5

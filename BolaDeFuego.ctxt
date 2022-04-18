@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BolaDeFuego
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BolaDeFuego\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ matarEsfera()
+comment1.text=\r\n\ Este\ m\u00E9todo\ permite\ eliminar\ la\ esfera\ cuando\ esta\r\n\ haya\ detectado\ la\ colision\ con\ el\ disparo.\r\n\ <b>\ Pre-condici\u00F3n\:\ <b\\>\ Ninguna\ <br>\r\n\ <b>\ Pos-condici\u00F3n\:\ <b\\>\ Elimina\ la\ esfera\ cuando\ ha\ colisionado\ con\ un\ disparo<br>\r\n\ \r\n\ @author\ Juan\ Jos\u00E9\ Carmona\ Y\ Daniel\ Berr\u00EDo\ Barrera\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ BolaDeFuego\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=3

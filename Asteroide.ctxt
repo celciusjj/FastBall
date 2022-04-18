@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Asteroide
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Asteroide\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=dir
+comment1.target=Asteroide(java.lang.String)
+comment1.text=\r\n\ Este\ m\u00E9todo\ constructor\ permite\ mover\ los\ asteroides\ hacia\ arriba\ \ o\ hacia\ abajo,\ \r\n\ recibiendo\ como\ par\u00E1metros\ una\ direcci\u00F3n,\ la\ cual\ determinar\u00E1\ hacia\ qu\u00E9\ lugar\ moverse.\r\n\ <b>\ Pre-Condici\u00F3n\:\ <b/>\ Ninguna\ <br>\r\n\ <b>\ Pos-\ Condici\u00F3n\:\ <b/>\ Cambia\ la\ posici\u00F3n\ en\ Y\ de\ la\ plataforma.\ <br>\r\n\ \r\n\ @\ Parametros\:\ la\ direcci\u00F3n\ deber\u00E1\ tomar\ los\ valores\ arriba\ para\ desplazarse\ hacia\ ese\r\n\ lugar\ o\ hacia\ abajo,\ para\ moverse.\r\n\ @author\ Juan\ Jos\u00E9\ Carmona\ Y\ Daniel\ Berr\u00EDo\ Barrera.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ \r\n
+numComments=3
